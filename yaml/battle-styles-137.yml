@@ -1,0 +1,74 @@
+---
+id: swsh5-137
+name: Tower of Darkness
+supertype: Trainer
+subtypes:
+- Stadium
+- Single Strike
+rules:
+- Once during each player's turn, that player may draw 2 cards. In order to use this
+  effect, that player must discard a Single Strike card from their hand.
+- This Stadium stays in play when you play it. Discard it if another Stadium comes
+  into play. If a Stadium with the same name is in play, you can't play this card.
+set:
+  id: swsh5
+  name: Battle Styles
+  series: Sword & Shield
+  printedTotal: 163
+  total: 183
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: BST
+  releaseDate: 2021/03/19
+  updatedAt: 2021/03/19 15:12:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh5/symbol.png
+    logo: https://images.pokemontcg.io/swsh5/logo.png
+number: '137'
+artist: 5ban Graphics
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh5/137.png
+  large: https://images.pokemontcg.io/swsh5/137_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh5-137
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.06
+      mid: 0.29
+      high: 1.5
+      market: 0.18
+      directLow: 0.18
+    normal:
+      low: 0.02
+      mid: 0.2
+      high: 3.0
+      market: 0.09
+      directLow: 0.07
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh5-137
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.07
+    lowPrice: 0.02
+    trendPrice: 0.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.23
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.21
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.09
+    avg30: 0.06
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.15
+    reverseHoloAvg30: 0.33
